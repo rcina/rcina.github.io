@@ -2,7 +2,8 @@
 #+author: Robert Cina
 # #+HTML_HEAD: <link rel="stylesheet" href="simple.css" type="text/css" />
 * About
-- This is just a simple personal website to document stuff I am interested in. Stuff like technology, computer science, math, programming, Emacs, BSD and Linux operating systems.
+- This is just a simple personal website to document stuff I am interested in. Stuff like technology, computer science, math, and programming interest me.
+  At the moment some of the languages I am familiar with are Python, Java, C and JavaScript. I also have an interest in Emacs and using BSD unix and Linux operating systems.
 
 * Links
 - [[https://github.com/rcina][My Github Account]]
