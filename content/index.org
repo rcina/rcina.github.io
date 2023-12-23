@@ -12,7 +12,7 @@
 - I enjoy using BSD (Unix) and Linux operating systems because they are free and open source. These operating systems have great user communities and are essential
   for most of my computing activities. I have been using some form of BSD or Linux system since the early 2000's.
 
-[[yt:8bUSQjuNedI]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8bUSQjuNedI?si=cNrRXXB-hZdRP80d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Links
 - [[https://github.com/rcina][My Github Account]]
