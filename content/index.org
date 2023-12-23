@@ -4,11 +4,13 @@
 * About
 - This is just a simple personal website to document stuff I am interested in. Stuff like technology, computer science, math, and programming continue to be things
   I like to pursue. At the moment some of the languages I am seeking to get better at are Python, Java, C and JavaScript. Web development is something that I have
-  set as a goal to learn someday. Besides the aforementioned items, I also use Emacs for programming and writing because it is very extensible. It might not be as
-  popular as Visual Studio Code is these days because of it's learning curve to master but it has so many things that make it worthwhile investment to learn in the
-  long run.  Beyond it's editing capabilities Emacs has so many features it's pretty much impossible to learn them all. One feature that I find indispensable is
-  Org Mode. It is like a swiss-army knife of functionality that allows making notes, authoring documents, computational notebooks, literate programming, and
-  maintaining to-do lists. There is a plethora of things to learn with Emacs to keep one busy for a lifetime.
+  set as a goal to learn someday. Besides the aforementioned items, I also use Emacs for programming and writing because it is very extensible and powerful. Emacs
+  might not be as popular as some other editors (Visual Studio Code) because of it's steep learning curve to master. However, it has so many advantages that make it
+  a worthwhile investment to learn in the long run.  Beyond it's editing capabilities Emacs has so many features and packages it's pretty much impossible to learn
+  all of them. One feature that I find most indispensable is Org Mode. It is like a swiss-army knife of functionality that allows making notes, authoring documents,
+  computational notebooks, literate programming, and maintaining to-do lists. I have been using Emacs for years and I still find there is a plethora of things to
+  learn with Emacs to keep one busy for a lifetime.
+
 - I enjoy using BSD (Unix) and Linux operating systems because they are free and open source. These operating systems have great user communities and are essential
   for most of my computing activities. I have been using some form of BSD or Linux system since the early 2000's.
 
