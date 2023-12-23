@@ -13,7 +13,6 @@
   for most of my computing activities. I have been using some form of BSD or Linux system since the early 2000's.
 
 
-[[yt:https://www.youtube.com/watch?v=C0DPdy98e4c]]
 * Links
 - [[https://github.com/rcina][My Github Account]]
 - [[https://github.com/rcina/dotemacs][My Emacs Configuration]]
