@@ -126,9 +126,6 @@ body > footer {
   grid-column: 1 / -1;
 }
 
-ul {
-  list-style: none;
-}
 
 /* Format headers */
 h1 {
