@@ -145,6 +145,7 @@ h6 {
 
 p {
   margin: 1.5rem 0;
+  text-indent: 0.5rem;
 }
 
 /* Prevent long strings from overflowing container */
@@ -203,7 +204,7 @@ label[type="button"] {
   line-height: normal;
 }
 
-.button[aria-disabled="true"], 
+.button[aria-disabled="true"],
 input:disabled,
 textarea:disabled,
 select:disabled,
@@ -677,8 +678,8 @@ sup {
   top: -0.4em;
 }
 
-sub { 
-  top: 0.3em; 
+sub {
+  top: 0.3em;
 }
 
 /* Classes for notices */
