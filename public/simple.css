@@ -163,6 +163,10 @@ p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
 }
 
+.text p {
+  text-indent: 2rem;
+}
+
 /* Fix line height when title wraps */
 h1,
 h2,

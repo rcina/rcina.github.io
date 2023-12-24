@@ -2,6 +2,9 @@
 #+author: Robert Cina
 # #+HTML_HEAD: <link rel="stylesheet" href="simple.css" type="text/css" />
 * About
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: text
+:END:
 This is just a simple personal website to document stuff I am interested in. Stuff like technology, computer science, math, and programming continue to be things
 I like to pursue. At the moment some of the languages I am seeking to get better at are Python, Java, C and JavaScript. Web development is something that I have
 set as a goal to learn someday. Besides the aforementioned items, I also use Emacs for programming and writing because it is very extensible and powerful. Emacs
